@@ -1,8 +1,8 @@
 # Vidmotsforritun verkefni 4
 
----
-
 [Site](https://bjarni123.github.io/Vidmotsforritun_verkefni4/)
+
+---
 
 ## Virkni
 
