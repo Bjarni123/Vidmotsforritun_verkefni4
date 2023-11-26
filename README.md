@@ -10,7 +10,7 @@
 
 Til þess að færa um X-ásin þá má langatöngin og byrjun lófar þíns ekki vera á sama Z-ás.
 Til þess láta ketilinn snúa um Y-ásinn þá mega endirinn á þumalinum þínum ekki vera á sama Z-ás og á litla-fingrinum. 
-Til þess að snúa um Z-ásin má langatöng og byrjun lófans ekki vera á sama y-ás.
+Til þess að snúa um Z-ásin má langatöng og byrjun lófans ekki vera á sama X-ás.
 
 
 [Verkefnalýsing](https://github.com/GunnarThorunnarson/FORR3FV05EU/blob/master/Verkefni/Verkefni4.md)
